@@ -1,6 +1,5 @@
 
-Apostila_Streamlit.py
-100%
+
 # =====================================================================
 # APOSTILA EXECUTÁVEL STREAMLIT: O GUIA DEFINITIVO DO SENAI
 # Rode este arquivo para ver todos os comandos funcionando na prática!
